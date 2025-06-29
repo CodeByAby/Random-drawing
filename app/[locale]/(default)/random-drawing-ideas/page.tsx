@@ -112,7 +112,8 @@ const drawingIdeas = {
   ]
 };
 
-export default async function RandomDrawingIdeasPage({ params }: { params: { locale: string } }) {
+export default async function RandomDrawingIdeasPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
   const t = await getTranslations("RandomDrawingIdeas");
 
   return (
