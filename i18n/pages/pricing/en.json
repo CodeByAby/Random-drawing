@@ -1,0 +1,107 @@
+{
+  "pricing": {
+    "title": "Choose Your Creative Plan",
+    "description": "Select the plan that fits your artistic journey.",
+    "items": [
+      {
+        "title": "Free",
+        "description": "Perfect for casual artists",
+        "price": "0",
+        "currency": "$",
+        "unit": "/month",
+        "features_title": "Basic features:",
+        "features": [
+          "5 random ideas per day",
+          "Basic categories and styles",
+          "Community gallery access",
+          "Limited challenge participation"
+        ],
+        "button": {
+          "title": "Get Started Free",
+          "url": "/sign-up",
+          "variant": "outline"
+        },
+        "interval": "month",
+        "product_id": "price_free",
+        "amount": 0,
+        "currency": "USD"
+      },
+      {
+        "title": "Artist",
+        "description": "For dedicated creators",
+        "price": "9.99",
+        "currency": "$",
+        "unit": "/month",
+        "features_title": "Everything in Free, plus:",
+        "features": [
+          "Unlimited random ideas",
+          "All categories and styles",
+          "Reference image library",
+          "Tutorial access",
+          "Full challenge participation",
+          "No ads"
+        ],
+        "button": {
+          "title": "Upgrade to Artist",
+          "url": "/pricing",
+          "variant": "default"
+        },
+        "is_featured": true,
+        "interval": "month",
+        "product_id": "price_artist_monthly",
+        "amount": 999,
+        "currency": "USD"
+      },
+      {
+        "title": "Studio",
+        "description": "For professional teams",
+        "price": "29.99",
+        "currency": "$",
+        "unit": "/month",
+        "features_title": "Everything in Artist, plus:",
+        "features": [
+          "Team collaboration features",
+          "Premium tutorial library",
+          "Challenge creation tools",
+          "Advanced reference database",
+          "Custom brand profile",
+          "Priority support"
+        ],
+        "button": {
+          "title": "Get Studio",
+          "url": "/pricing",
+          "variant": "outline"
+        },
+        "interval": "month",
+        "product_id": "price_studio_monthly",
+        "amount": 2999,
+        "currency": "USD"
+      }
+    ],
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "title": "Can I upgrade or downgrade my plan?",
+          "description": "Yes, you can upgrade or downgrade your plan at any time. Your billing will be prorated accordingly."
+        },
+        {
+          "title": "Is there a discount for annual subscriptions?",
+          "description": "Yes, we offer a 20% discount when you choose annual billing for any of our paid plans."
+        },
+        {
+          "title": "Can I use RandomDraw for commercial projects?",
+          "description": "Absolutely! All artwork you create using our platform is yours to use for any purpose, including commercial projects."
+        },
+        {
+          "title": "What payment methods do you accept?",
+          "description": "We accept credit cards, PayPal, and Apple Pay. All payments are processed securely through Stripe."
+        },
+        {
+          "title": "Do you offer refunds?",
+          "description": "We offer a 7-day money-back guarantee if you're not satisfied with our premium plans."
+        }
+      ]
+    }
+  }
+}

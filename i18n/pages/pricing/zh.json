@@ -1,0 +1,110 @@
+{
+  "pricing": {
+    "title": "选择您的创意计划",
+    "description": "选择适合您艺术之旅的计划。",
+    "items": [
+      {
+        "title": "免费版",
+        "description": "适合休闲艺术家",
+        "price": "0",
+        "currency": "￥",
+        "unit": "/月",
+        "features_title": "基本功能：",
+        "features": [
+          "每天5个随机创意",
+          "基本类别和风格",
+          "社区画廊访问权限",
+          "有限的挑战参与"
+        ],
+        "button": {
+          "title": "免费开始",
+          "url": "/sign-up",
+          "variant": "outline"
+        },
+        "interval": "month",
+        "product_id": "price_free",
+        "amount": 0,
+        "cn_amount": 0,
+        "currency": "CNY"
+      },
+      {
+        "title": "艺术家",
+        "description": "适合专注的创作者",
+        "price": "69",
+        "currency": "￥",
+        "unit": "/月",
+        "features_title": "免费版全部功能，另外还有：",
+        "features": [
+          "无限随机创意",
+          "所有类别和风格",
+          "参考图库",
+          "教程访问权限",
+          "完全挑战参与",
+          "无广告"
+        ],
+        "button": {
+          "title": "升级到艺术家",
+          "url": "/pricing",
+          "variant": "default"
+        },
+        "is_featured": true,
+        "interval": "month",
+        "product_id": "price_artist_monthly",
+        "amount": 999,
+        "cn_amount": 6900,
+        "currency": "CNY"
+      },
+      {
+        "title": "工作室",
+        "description": "适合专业团队",
+        "price": "199",
+        "currency": "￥",
+        "unit": "/月",
+        "features_title": "艺术家版全部功能，另外还有：",
+        "features": [
+          "团队协作功能",
+          "高级教程库",
+          "挑战创建工具",
+          "高级参考数据库",
+          "定制品牌档案",
+          "优先支持"
+        ],
+        "button": {
+          "title": "获取工作室版",
+          "url": "/pricing",
+          "variant": "outline"
+        },
+        "interval": "month",
+        "product_id": "price_studio_monthly",
+        "amount": 2999,
+        "cn_amount": 19900,
+        "currency": "CNY"
+      }
+    ],
+    "faqs": {
+      "title": "常见问题",
+      "items": [
+        {
+          "title": "我可以升级或降级我的计划吗？",
+          "description": "是的，您可以随时升级或降级您的计划。您的账单将按比例计算。"
+        },
+        {
+          "title": "年度订阅有折扣吗？",
+          "description": "是的，当您选择任何付费计划的年度结算时，我们提供20%的折扣。"
+        },
+        {
+          "title": "我可以将随机绘画用于商业项目吗？",
+          "description": "当然可以！您使用我们平台创作的所有作品都归您所有，可以用于任何目的，包括商业项目。"
+        },
+        {
+          "title": "你们接受哪些支付方式？",
+          "description": "我们接受信用卡、支付宝、微信支付。所有支付都通过安全渠道处理。"
+        },
+        {
+          "title": "你们提供退款吗？",
+          "description": "如果您对我们的高级计划不满意，我们提供7天退款保证。"
+        }
+      ]
+    }
+  }
+}

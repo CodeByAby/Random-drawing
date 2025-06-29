@@ -1,0 +1,1 @@
+export { google as gemini } from '@ai-sdk/google';

@@ -1,0 +1,112 @@
+{
+  "showcase": {
+    "title": "Artist Showcase Gallery",
+    "description": "Explore amazing artwork created with RandomDraw inspiration",
+    "items": [
+      {
+        "title": "Cute Animal Series",
+        "description": "By Sarah L.",
+        "image": {
+          "src": "/imgs/showcases/1.png",
+          "alt": "Cute Animal Series"
+        }
+      },
+      {
+        "title": "Fantasy Landscape",
+        "description": "By Michael T.",
+        "image": {
+          "src": "/imgs/showcases/2.png",
+          "alt": "Fantasy Landscape"
+        }
+      },
+      {
+        "title": "Character Concept",
+        "description": "By Elena R.",
+        "image": {
+          "src": "/imgs/showcases/3.png",
+          "alt": "Character Concept"
+        }
+      },
+      {
+        "title": "Abstract Emotion",
+        "description": "By David K.",
+        "image": {
+          "src": "/imgs/showcases/4.png",
+          "alt": "Abstract Emotion"
+        }
+      },
+      {
+        "title": "Urban Sketch",
+        "description": "By Tanya M.",
+        "image": {
+          "src": "/imgs/showcases/5.png",
+          "alt": "Urban Sketch"
+        }
+      },
+      {
+        "title": "Nature Study",
+        "description": "By Jason P.",
+        "image": {
+          "src": "/imgs/showcases/6.png",
+          "alt": "Nature Study"
+        }
+      },
+      {
+        "title": "Watercolor Portrait",
+        "description": "By Olivia W.",
+        "image": {
+          "src": "/imgs/showcases/7.png",
+          "alt": "Watercolor Portrait"
+        }
+      },
+      {
+        "title": "Sci-Fi Environment",
+        "description": "By Robert H.",
+        "image": {
+          "src": "/imgs/showcases/8.png",
+          "alt": "Sci-Fi Environment"
+        }
+      },
+      {
+        "title": "Still Life Study",
+        "description": "By Maya C.",
+        "image": {
+          "src": "/imgs/showcases/9.png",
+          "alt": "Still Life Study"
+        }
+      }
+    ],
+    "categories": [
+      {
+        "title": "All"
+      },
+      {
+        "title": "Animals"
+      },
+      {
+        "title": "Landscapes"
+      },
+      {
+        "title": "Characters"
+      },
+      {
+        "title": "Abstract"
+      },
+      {
+        "title": "Urban"
+      },
+      {
+        "title": "Nature"
+      }
+    ],
+    "cta": {
+      "title": "Share Your Creation",
+      "description": "Get inspired and submit your own artwork to our community gallery",
+      "button": {
+        "title": "Submit Artwork",
+        "url": "/submit-artwork",
+        "variant": "default"
+      }
+    }
+  }
+}

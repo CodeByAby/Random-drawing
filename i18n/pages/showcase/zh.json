@@ -1,0 +1,112 @@
+{
+  "showcase": {
+    "title": "艺术家作品展示",
+    "description": "探索使用随机绘画灵感创作的精彩作品",
+    "items": [
+      {
+        "title": "可爱动物系列",
+        "description": "作者：莎拉",
+        "image": {
+          "src": "/imgs/showcases/1.png",
+          "alt": "可爱动物系列"
+        }
+      },
+      {
+        "title": "奇幻风景",
+        "description": "作者：迈克尔",
+        "image": {
+          "src": "/imgs/showcases/2.png",
+          "alt": "奇幻风景"
+        }
+      },
+      {
+        "title": "角色设计",
+        "description": "作者：艾琳娜",
+        "image": {
+          "src": "/imgs/showcases/3.png",
+          "alt": "角色设计"
+        }
+      },
+      {
+        "title": "抽象情感",
+        "description": "作者：大卫",
+        "image": {
+          "src": "/imgs/showcases/4.png",
+          "alt": "抽象情感"
+        }
+      },
+      {
+        "title": "城市速写",
+        "description": "作者：塔尼亚",
+        "image": {
+          "src": "/imgs/showcases/5.png",
+          "alt": "城市速写"
+        }
+      },
+      {
+        "title": "自然研究",
+        "description": "作者：杰森",
+        "image": {
+          "src": "/imgs/showcases/6.png",
+          "alt": "自然研究"
+        }
+      },
+      {
+        "title": "水彩人像",
+        "description": "作者：奥利维亚",
+        "image": {
+          "src": "/imgs/showcases/7.png",
+          "alt": "水彩人像"
+        }
+      },
+      {
+        "title": "科幻环境",
+        "description": "作者：罗伯特",
+        "image": {
+          "src": "/imgs/showcases/8.png",
+          "alt": "科幻环境"
+        }
+      },
+      {
+        "title": "静物研究",
+        "description": "作者：玛雅",
+        "image": {
+          "src": "/imgs/showcases/9.png",
+          "alt": "静物研究"
+        }
+      }
+    ],
+    "categories": [
+      {
+        "title": "全部"
+      },
+      {
+        "title": "动物"
+      },
+      {
+        "title": "风景"
+      },
+      {
+        "title": "角色"
+      },
+      {
+        "title": "抽象"
+      },
+      {
+        "title": "城市"
+      },
+      {
+        "title": "自然"
+      }
+    ],
+    "cta": {
+      "title": "分享您的创作",
+      "description": "获取灵感并将您的作品提交到我们的社区画廊",
+      "button": {
+        "title": "提交作品",
+        "url": "/submit-artwork",
+        "variant": "default"
+      }
+    }
+  }
+}

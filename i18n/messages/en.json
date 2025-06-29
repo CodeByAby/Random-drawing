@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "title": "RandomDraw - Endless Drawing Inspiration for Artists | Find Your Next Art Idea",
+    "description": "RandomDraw helps artists of all skill levels find creative inspiration with our random drawing idea generator. Never stare at a blank canvas again!",
+    "keywords": "random drawing, drawing ideas, art inspiration, drawing prompts, creative ideas"
+  },
+  "user": {
+    "sign_in": "Sign in",
+    "sign_out": "Sign out",
+    "credits": "Credits",
+    "api_keys": "API Keys",
+    "my_orders": "My Orders",
+    "user_center": "User Center",
+    "admin_system": "Admin"
+  },
+  "sign_modal": {
+    "sign_in_title": "Sign in",
+    "sign_in_description": "Sign in to your account",
+    "sign_up_title": "Sign up",
+    "sign_up_description": "Create a new account",
+    "email_title": "Email",
+    "email_placeholder": "Enter your email",
+    "password_title": "Password",
+    "password_placeholder": "Enter your password",
+    "forgot_password": "Forgot password?",
+    "or": "or",
+    "continue": "Continue",
+    "no_account": "Don't have an account?",
+    "email_sign_in": "Sign in with Email",
+    "google_sign_in": "Sign in with Google",
+    "github_sign_in": "Sign in with GitHub",
+    "close_title": "Close",
+    "cancel_title": "Cancel"
+  },
+  "my_orders": {
+    "title": "My Orders",
+    "description": "Orders purchased on RandomDraw.",
+    "no_orders": "No orders found",
+    "tip": "",
+    "activate_order": "Activate Order",
+    "actived": "Activated",
+    "join_discord": "Join Discord",
+    "read_docs": "Read Documentation",
+    "table": {
+      "order_no": "Order No.",
+      "email": "Email",
+      "product_name": "Product Name",
+      "amount": "Amount",
+      "paid_at": "Paid At",
+      "github_username": "GitHub Username",
+      "status": "Status"
+    }
+  },
+  "my_credits": {
+    "title": "My Credits",
+    "left_tip": "Credits Left: {left_credits}",
+    "no_credits": "No credits records",
+    "recharge": "Recharge",
+    "table": {
+      "trans_no": "Transaction No.",
+      "trans_type": "Transaction Type",
+      "credits": "Credits",
+      "updated_at": "Updated At",
+      "status": "Status"
+    }
+  },
+  "api_keys": {
+    "title": "API Keys",
+    "tip": "Please keep your API keys secure and avoid leaking them",
+    "no_api_keys": "No API keys",
+    "create_api_key": "Create API Key",
+    "table": {
+      "name": "Name",
+      "key": "Key",
+      "created_at": "Created At"
+    },
+    "form": {
+      "name": "Name",
+      "name_placeholder": "API key name",
+      "submit": "Submit"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "News, resources, and updates about RandomDraw",
+    "read_more_text": "Read more"
+  },
+  "my_invites": {
+    "title": "My Invites",
+    "description": "View your invite records",
+    "no_invites": "No invite records found",
+    "my_invite_link": "My Invite Link",
+    "edit_invite_link": "Edit Invite Link",
+    "copy_invite_link": "Copy Invite Link",
+    "invite_code": "Invite Code",
+    "invite_tip": "Get $10 credit for each friend you refer who signs up for a paid plan.",
+    "invite_balance": "Invite Reward Balance",
+    "total_invite_count": "Total Invites",
+    "total_paid_count": "Total Paid Users",
+    "total_award_amount": "Total Award Amount",
+    "update_invite_code": "Set Invite Code",
+    "update_invite_code_tip": "Enter your custom invite code",
+    "update_invite_button": "Save",
+    "no_orders": "You need to have purchased a plan first to invite friends",
+    "no_affiliates": "You don't have affiliate permissions yet. Please contact us to apply.",
+    "table": {
+      "invite_time": "Invite Time",
+      "invite_user": "Invited User",
+      "status": "Status",
+      "reward_percent": "Reward Percent",
+      "reward_amount": "Reward Amount",
+      "pending": "Registered, not paid",
+      "completed": "Paid"
+    }
+  },
+  "feedback": {
+    "title": "Feedback",
+    "description": "We'd love to hear your thoughts on our product or how we can improve your experience.",
+    "submit": "Submit",
+    "loading": "Submitting...",
+    "contact_tip": "Other contact methods",
+    "rating_tip": "How would you rate RandomDraw?",
+    "placeholder": "Leave your feedback here..."
+  },
+  "RandomDrawingIdeas": {
+    "title": "Random Drawing Ideas Generator",
+    "description": "Find inspiration for your next masterpiece with our random drawing ideas generator. Customize by category, style, and difficulty level.",
+    "idea_generator_title": "Drawing Idea Generator",
+    "idea_generator_description": "Generate random drawing prompts tailored to your preferences",
+    "category_label": "Category",
+    "category_placeholder": "Select category",
+    "style_label": "Art Style",
+    "style_placeholder": "Select style",
+    "difficulty_label": "Difficulty",
+    "difficulty_placeholder": "Select level",
+    "generate_button": "Generate Random Idea",
+    "your_idea": "Your Drawing Idea",
+    "example_idea": "A curious fox exploring a magical forest at sunset",
+    "new_ideas_tip": "Not inspired? Generate a new idea or adjust your preferences above.",
+    "save_idea_button": "Save Idea",
+    "share_idea_button": "Share Idea",
+    "tips_title": "Drawing Tips",
+    "tips_section_1_title": "Start Simple",
+    "tips_section_1_content": "Break down complex subjects into basic shapes first, then add details gradually.",
+    "tips_section_2_title": "Study References",
+    "tips_section_2_content": "Looking at reference images helps understand form, proportion, and lighting.",
+    "tips_section_3_title": "Practice Daily",
+    "tips_section_3_content": "Even 15 minutes of daily practice leads to significant improvement over time.",
+    "tips_section_4_title": "Experiment",
+    "tips_section_4_content": "Try different techniques, styles, and materials to find what works best for you.",
+    "tutorials_button": "View Drawing Tutorials",
+    "popular_categories_title": "Popular Categories",
+    "view_all_categories_button": "View All Categories",
+    "inspiration_gallery_title": "Community Inspiration Gallery",
+    "gallery_image_alt": "Artwork example {number}",
+    "gallery_item_title": "Artist Creation #{number}",
+    "gallery_item_artist": "By RandomDraw Community Artist",
+    "view_more_button": "View More Artwork"
+  }
+}
