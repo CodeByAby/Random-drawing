@@ -1,10 +1,8 @@
-import bundleAnalyzer from "@next/bundle-analyzer";
 import createNextIntlPlugin from "next-intl/plugin";
 import mdx from "@next/mdx";
 
-const withBundleAnalyzer = bundleAnalyzer({
-  enabled: process.env.ANALYZE === "true",
-});
+// Bundle analyzer - skip if not available
+const withBundleAnalyzer = (config) => config;
 
 const withNextIntl = createNextIntlPlugin();
 
